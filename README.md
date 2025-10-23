@@ -19,7 +19,7 @@ To create an intelligent assistant that:
 | **Embeddings** | `text-embedding-3-large` |
 | **Backend** | Python |
 | **Environment** | Google Colab / Local |
-| **Database Ops** | CRUD — implemented**Read** |
+| **Database Ops** | CRUD — **Read** |
 
 ## ✨ Features
 - **RAG pipeline**: ChromaDB retrieval + GPT-4o-mini generation
