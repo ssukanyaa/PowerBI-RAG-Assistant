@@ -19,7 +19,7 @@ To create an intelligent assistant that:
 | **Embeddings** | `text-embedding-3-large` |
 | **Backend** | Python |
 | **Environment** | Google Colab / Local |
-| **Database Ops** | CRUD — **Read** |
+| **Database Ops** | CRUD — Focus on **Read** |
 
 ## ✨ Features
 - 🔁 **RAG Pipeline** → ChromaDB retrieval + GPT-4o-mini generation  
@@ -28,3 +28,10 @@ To create an intelligent assistant that:
   2. Retrieve relevant chunks based on user query  
 - 💾 **Persistent Storage** with ChromaDB  
 - 🧩 Context-aware answers, grounded strictly in official docs 
+
+## 💡 Example Use Case
+Ask Power BI questions like:
+> “How to share a Power BI dashboard with a group?”  
+> “Is Data Refresh the same as Live Connection in Power BI?”
+
+…and get concise, grounded answers directly from documentation!
