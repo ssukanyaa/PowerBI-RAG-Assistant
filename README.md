@@ -22,8 +22,9 @@ To create an intelligent assistant that:
 | **Database Ops** | CRUD — **Read** |
 
 ## ✨ Features
-- **RAG pipeline**: ChromaDB retrieval + GPT-4o-mini generation
-- **Two READ modes** in vector DBs:
-1) Inspect individual records (ids/metadata/embeddings)
-2) Retrieve relevant chunks for a user query
-- **Persistent storage** with ChromaDB
+- 🔁 **RAG Pipeline** → ChromaDB retrieval + GPT-4o-mini generation  
+- 📚 **Two READ modes** in vector DBs:
+  1. Inspect individual records *(ids / metadata / embeddings)*  
+  2. Retrieve relevant chunks based on user query  
+- 💾 **Persistent Storage** with ChromaDB  
+- 🧩 Context-aware answers, grounded strictly in official docs 
