@@ -1,0 +1,5 @@
+chromadb>=0.5.4
+openai>=1.40.0
+langchain-openai
+langchain-chroma
+tiktoken
