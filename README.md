@@ -1,5 +1,5 @@
 # PowerBI-RAG-Assistant
-A RAG assistant that answers questions about PowerBI
+Retrieval-Augmented Generation (RAG) assistant for Power BI — powered by GPT-4o-mini and ChromaDB. Enables analysts to ask natural language questions and get concise, grounded answers directly from Power BI documentation.
 
 ## 📘 Overview
 Many analysts struggle with the vast and complex **Power BI documentation**, often spending hours searching for answers to simple questions.  
